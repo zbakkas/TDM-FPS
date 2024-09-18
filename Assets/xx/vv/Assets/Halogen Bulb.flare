@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!121 &12100000
+Flare:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "Halogen Bulb"
+  m_FlareTexture: {fileID: 2800000, guid: c127135c9ab347fe84bc0b893b518181, type: 3}
+  m_TextureLayout: 0
+  m_Elements:
+  - m_ImageIndex: 0
+    m_Position: 0
+    m_Size: 25
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_UseLightColor: 0
+    m_Rotate: 0
+    m_Zoom: 1
+    m_Fade: 1
+  - m_ImageIndex: 1
+    m_Position: 0
+    m_Size: 25
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_UseLightColor: 0
+    m_Rotate: 0
+    m_Zoom: 1
+    m_Fade: 1
+  - m_ImageIndex: 2
+    m_Position: 0.1
+    m_Size: 0
+    m_Color: {r: 0.1615385, g: 0.1615385, b: 0.1615385, a: 1}
+    m_UseLightColor: 0
+    m_Rotate: 0
+    m_Zoom: 1
+    m_Fade: 1
+  - m_ImageIndex: 2
+    m_Position: -0.2
+    m_Size: 0
+    m_Color: {r: 0.03846157, g: 0.03846157, b: 0.03846157, a: 1}
+    m_UseLightColor: 0
+    m_Rotate: 0
+    m_Zoom: 1
+    m_Fade: 1
+  - m_ImageIndex: 2
+    m_Position: 1
+    m_Size: 0
+    m_Color: {r: 0.1076923, g: 0.1076923, b: 0.1076923, a: 1}
+    m_UseLightColor: 0
+    m_Rotate: 0
+    m_Zoom: 1
+    m_Fade: 1
+  - m_ImageIndex: 2
+    m_Position: 1
+    m_Size: 0
+    m_Color: {r: 0.1076923, g: 0.1076923, b: 0.1076923, a: 1}
+    m_UseLightColor: 0
+    m_Rotate: 0
+    m_Zoom: 1
+    m_Fade: 1
+  - m_ImageIndex: 2
+    m_Position: 0.95
+    m_Size: 0
+    m_Color: {r: 0.1076923, g: 0.1076923, b: 0.1076923, a: 1}
+    m_UseLightColor: 0
+    m_Rotate: 0
+    m_Zoom: 1
+    m_Fade: 1
+  - m_ImageIndex: 2
+    m_Position: 1.2
+    m_Size: 0
+    m_Color: {r: 0.2230769, g: 0.2230769, b: 0.2230769, a: 1}
+    m_UseLightColor: 0
+    m_Rotate: 0
+    m_Zoom: 1
+    m_Fade: 1
+  - m_ImageIndex: 2
+    m_Position: 1.5
+    m_Size: 0
+    m_Color: {r: 0.04615384, g: 0.04615384, b: 0.04615384, a: 1}
+    m_UseLightColor: 0
+    m_Rotate: 0
+    m_Zoom: 1
+    m_Fade: 1
+  - m_ImageIndex: 4
+    m_Position: 1
+    m_Size: 0
+    m_Color: {r: 0.1937716, g: 0.2012397, b: 0.2352941, a: 1}
+    m_UseLightColor: 0
+    m_Rotate: 0
+    m_Zoom: 1
+    m_Fade: 1
+  - m_ImageIndex: 3
+    m_Position: 2
+    m_Size: 0
+    m_Color: {r: 0.02259948, g: 0.06893659, b: 0.1397059, a: 1}
+    m_UseLightColor: 0
+    m_Rotate: 0
+    m_Zoom: 1
+    m_Fade: 1
+  - m_ImageIndex: 3
+    m_Position: 0.25
+    m_Size: 0
+    m_Color: {r: 0.1764706, g: 0.1997461, b: 0.2352941, a: 1}
+    m_UseLightColor: 0
+    m_Rotate: 0
+    m_Zoom: 1
+    m_Fade: 1
+  - m_ImageIndex: 3
+    m_Position: -0.25
+    m_Size: 0
+    m_Color: {r: 0.1330558, g: 0.1473249, b: 0.1691176, a: 1}
+    m_UseLightColor: 0
+    m_Rotate: 0
+    m_Zoom: 1
+    m_Fade: 1
+  m_UseFog: 1

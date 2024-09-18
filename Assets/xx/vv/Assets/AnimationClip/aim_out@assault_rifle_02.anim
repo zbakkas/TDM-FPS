@@ -1,0 +1,6363 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "aim_out@assault_rifle_02"
+  serializedVersion: 6
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.3643466, y: -0.2502385, z: 0.8969242, w: 0.01262024}
+        inSlope: {x: -0.2739425, y: -0.4375411, z: -0.01484603, w: -0.6541513}
+        outSlope: {x: -0.2739425, y: -0.4375411, z: -0.01484603, w: -0.6541513}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.06666668
+        value: {x: 0.3367837, y: -0.2993398, z: 0.8912445, w: -0.05153445}
+        inSlope: {x: -0.4121656, y: -0.5162921, z: -0.0719279, w: -1.002108}
+        outSlope: {x: -0.4121656, y: -0.5162921, z: -0.0719279, w: -1.002108}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1666667
+        value: {x: 0.2911131, y: -0.3000003, z: 0.8945187, w: -0.1583959}
+        inSlope: {x: -0.438289, y: 0.4381697, z: 0.1359639, w: -0.8784758}
+        outSlope: {x: -0.438289, y: 0.4381697, z: 0.1359639, w: -0.8784758}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3
+        value: {x: 0.2673693, y: -0.1753428, z: 0.9270867, w: -0.1956496}
+        inSlope: {x: 0.02050817, y: 0.5755305, z: 0.1173538, w: 0.04654304}
+        outSlope: {x: 0.02050817, y: 0.5755305, z: 0.1173538, w: 0.04654304}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.2682934, y: -0.1603586, z: 0.9298729, w: -0.194011}
+        inSlope: {x: -0.0008779757, y: 0.08650921, z: 0.01533328, w: 0.0001068412}
+        outSlope: {x: -0.0008779757, y: 0.08650921, z: 0.01533328, w: 0.0001068412}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_L"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.5334004, y: 0.462006, z: 0.5365555, w: 0.4627557}
+        inSlope: {x: -0.07709204, y: 0.08919551, z: -0.07754713, w: 0.08934214}
+        outSlope: {x: -0.07709204, y: 0.08919551, z: -0.07754713, w: 0.08934214}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1333333
+        value: {x: 0.4971867, y: 0.5009307, z: 0.5001274, w: 0.5017434}
+        inSlope: {x: -0.5656461, y: 0.560912, z: -0.5689917, w: 0.5618217}
+        outSlope: {x: -0.5656461, y: 0.560912, z: -0.5689917, w: 0.5618217}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2666667
+        value: {x: 0.4110583, y: 0.5740157, z: 0.4134893, w: 0.5749467}
+        inSlope: {x: -0.5630431, y: 0.40869, z: -0.5663762, w: 0.4093534}
+        outSlope: {x: -0.5630431, y: 0.40869, z: -0.5663762, w: 0.4093534}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.3849845, y: 0.5918946, z: 0.3872611, w: 0.5928546}
+        inSlope: {x: -0.03640112, y: 0.02383409, z: -0.03662196, w: 0.02386985}
+        outSlope: {x: -0.03640112, y: 0.02383409, z: -0.03662196, w: 0.02386985}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_L\x2flower_arm_L"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.1972136, y: -0.402162, z: -0.420351, w: 0.7890992}
+        inSlope: {x: 0.7953711, y: -0.7402472, z: 0.2612266, w: -0.05911588}
+        outSlope: {x: 0.7953711, y: -0.7402472, z: 0.2612266, w: -0.05911588}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.03333334
+        value: {x: -0.1632695, y: -0.4385556, z: -0.4084896, w: 0.7836761}
+        inSlope: {x: 0.8333118, y: -1.075108, z: 0.2643478, w: -0.2833476}
+        outSlope: {x: 0.8333118, y: -1.075108, z: 0.2643478, w: -0.2833476}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1333333
+        value: {x: -0.1137519, y: -0.5268891, z: -0.3941432, w: 0.7443786}
+        inSlope: {x: 0.3950587, y: -0.6499305, z: 0.1745948, w: -0.3038317}
+        outSlope: {x: 0.3950587, y: -0.6499305, z: 0.1745948, w: -0.3038317}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2333333
+        value: {x: -0.09147712, y: -0.5583065, z: -0.3820347, w: 0.7307361}
+        inSlope: {x: -0.04813034, y: -0.004827082, z: 0.07789762, w: 0.03067196}
+        outSlope: {x: -0.04813034, y: -0.004827082, z: 0.07789762, w: 0.03067196}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: -0.1036647, y: -0.5682707, z: -0.3560211, w: 0.7345551}
+        inSlope: {x: -0.05528967, y: -0.08060747, z: 0.0573572, w: -0.04202839}
+        outSlope: {x: -0.05528967, y: -0.08060747, z: 0.0573572, w: -0.04202839}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_L\x2flower_arm_L\x2fhand_L"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.02836479, y: 0.06956457, z: 0.5837142, w: 0.8084763}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.02836479, y: 0.06956457, z: 0.5837142, w: 0.8084763}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_L\x2flower_arm_L\x2fhand_L\x2ffinger_01_L"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.5728257, y: 0.8185116, z: 0.02287382, w: 0.03723322}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: -0.5728257, y: 0.8185116, z: 0.02287382, w: 0.03723322}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_L\x2flower_arm_L\x2fhand_L\x2ffinger_01_L\x2ffinger_02_L"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.01721578, y: -0.01282257, z: -0.3701021, w: 0.9287431}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.01721578, y: -0.01282257, z: -0.3701021, w: 0.9287431}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_L\x2flower_arm_L\x2fhand_L\x2ffinger_01_L\x2ffinger_02_L\x2ffinger_03_L"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.02338026, y: 0.01466177, z: 0.6676674, w: 0.743948}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: -0.02338026, y: 0.01466177, z: 0.6676674, w: 0.743948}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_L\x2flower_arm_L\x2fhand_L\x2fmiddle_finger_01_L"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.401277, y: 0.9141196, z: 0.04073085, w: -0.04126956}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: -0.401277, y: 0.9141196, z: 0.04073085, w: -0.04126956}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_L\x2flower_arm_L\x2fhand_L\x2fmiddle_finger_01_L\x2fmiddle_finger_02_L"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.02718078, y: 0.02376704, z: -0.6202462, w: 0.7835757}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.02718078, y: 0.02376704, z: -0.6202462, w: 0.7835757}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_L\x2flower_arm_L\x2fhand_L\x2fmiddle_finger_01_L\x2fmiddle_finger_02_L\x2fmiddle_finger_03_L"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.5509519, y: 0.7802524, z: 0.03341635, w: -0.2941794}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: -0.5509519, y: 0.7802524, z: 0.03341635, w: -0.2941794}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_L\x2flower_arm_L\x2fhand_L\x2fthumb_01_L"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.6377455, y: -0.4169545, z: 0.09086204, w: 0.6412284}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.6377455, y: -0.4169545, z: 0.09086204, w: 0.6412284}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_L\x2flower_arm_L\x2fhand_L\x2fthumb_01_L\x2fthumb_02_L"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.2469803, y: 0.01218019, z: -0.1417729, w: 0.9585159}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.2469803, y: 0.01218019, z: -0.1417729, w: 0.9585159}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_L\x2flower_arm_L\x2fhand_L\x2fthumb_01_L\x2fthumb_02_L\x2fthumb_03_L"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.2891584, y: -0.4742989, z: 0.7844824, w: 0.275709}
+        inSlope: {x: -0.2054755, y: -0.6887438, z: -0.3915739, w: -0.3222267}
+        outSlope: {x: -0.2054755, y: -0.6887438, z: -0.3915739, w: -0.3222267}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.06666668
+        value: {x: -0.2991375, y: -0.5332421, z: 0.7553623, w: 0.2357909}
+        inSlope: {x: 0.08099513, y: -0.7167971, z: -0.2281576, w: -0.7819234}
+        outSlope: {x: 0.08099513, y: -0.7167971, z: -0.2281576, w: -0.7819234}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2333333
+        value: {x: -0.2293745, y: -0.5701377, z: 0.7828287, w: 0.09751701}
+        inSlope: {x: 0.4802478, y: 0.4086569, z: 0.50982, w: -0.5500454}
+        outSlope: {x: 0.4802478, y: 0.4086569, z: 0.50982, w: -0.5500454}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3
+        value: {x: -0.2106052, y: -0.545817, z: 0.8072243, w: 0.07821929}
+        inSlope: {x: 0.07675343, y: 0.1396832, z: 0.1225707, w: -0.06700896}
+        outSlope: {x: 0.07675343, y: 0.1396832, z: 0.1225707, w: -0.06700896}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: -0.2110333, y: -0.5455362, z: 0.8072208, w: 0.07905631}
+        inSlope: {x: -0.01389249, y: -0.02238212, z: -0.02008794, w: 0.01384421}
+        outSlope: {x: -0.01389249, y: -0.02238212, z: -0.02008794, w: 0.01384421}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_R"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.5881757, y: -0.3924906, z: -0.5881757, w: 0.3924919}
+        inSlope: {x: -0.02129495, y: -0.03186687, z: 0.02129316, w: 0.03186687}
+        outSlope: {x: -0.02129495, y: -0.03186687, z: 0.02129316, w: 0.03186687}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1333333
+        value: {x: 0.5972996, y: -0.378461, z: -0.5972997, w: 0.3784622}
+        inSlope: {x: 0.1184624, y: 0.1865543, z: -0.1184615, w: -0.1865472}
+        outSlope: {x: 0.1184624, y: 0.1865543, z: -0.1184615, w: -0.1865472}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3
+        value: {x: 0.6008993, y: -0.3727192, z: -0.6008994, w: 0.3727202}
+        inSlope: {x: -0.09239406, y: -0.1492573, z: 0.09239227, w: 0.14926}
+        outSlope: {x: -0.09239406, y: -0.1492573, z: 0.09239227, w: 0.14926}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.5979947, y: -0.377362, z: -0.5979945, w: 0.3773629}
+        inSlope: {x: -0.004250403, y: -0.00675022, z: 0.004259344, w: 0.006738598}
+        outSlope: {x: -0.004250403, y: -0.00675022, z: 0.004259344, w: 0.006738598}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_R\x2flower_arm_R"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.5933952, y: -0.5298901, z: 0.1174256, w: 0.5943987}
+        inSlope: {x: -0.6840437, y: -0.298807, z: -0.4913588, w: 0.4963437}
+        outSlope: {x: -0.6840437, y: -0.298807, z: -0.4913588, w: 0.4963437}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.03333334
+        value: {x: 0.5626267, y: -0.5465171, z: 0.09707093, w: 0.6126561}
+        inSlope: {x: -0.8527796, y: -0.6201535, z: -0.2408071, w: 0.2761826}
+        outSlope: {x: -0.8527796, y: -0.6201535, z: -0.2408071, w: 0.2761826}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1333333
+        value: {x: 0.5057322, y: -0.6047937, z: 0.1512084, w: 0.5963183}
+        inSlope: {x: -0.3436799, y: -0.3492379, z: 0.9418522, w: -0.3052773}
+        outSlope: {x: -0.3436799, y: -0.3492379, z: 0.9418522, w: -0.3052773}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2333333
+        value: {x: 0.47762, y: -0.6195366, z: 0.2522759, w: 0.5695704}
+        inSlope: {x: -0.1504541, y: 0.0001627207, z: 0.8277792, w: -0.2309784}
+        outSlope: {x: -0.1504541, y: 0.0001627207, z: 0.8277792, w: -0.2309784}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2666667
+        value: {x: 0.4739536, y: -0.6202877, z: 0.2736995, w: 0.5618716}
+        inSlope: {x: -0.1435737, y: -0.1462957, z: 0.2547182, w: -0.1592964}
+        outSlope: {x: -0.1435737, y: -0.1462957, z: 0.2547182, w: -0.1592964}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3333333
+        value: {x: 0.4630763, y: -0.6388875, z: 0.2554428, w: 0.5586878}
+        inSlope: {x: -0.08624732, y: -0.1875418, z: -0.2838022, w: -0.009557601}
+        outSlope: {x: -0.08624732, y: -0.1875418, z: -0.2838022, w: -0.009557601}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.4622986, y: -0.6417924, z: 0.250337, w: 0.5583135}
+        inSlope: {x: -0.02333073, y: -0.08714668, z: -0.1531746, w: -0.01122951}
+        outSlope: {x: -0.02333073, y: -0.08714668, z: -0.1531746, w: -0.01122951}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_R\x2flower_arm_R\x2fhand_R"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.124974, y: -0.0378805, z: -0.1005314, w: 0.9863265}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: -0.124974, y: -0.0378805, z: -0.1005314, w: 0.9863265}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_R\x2flower_arm_R\x2fhand_R\x2ffinger_01_R"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.4041536, y: 0.9146737, z: 0.00489479, w: 0.002807757}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: -0.4041536, y: 0.9146737, z: 0.00489479, w: 0.002807757}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_R\x2flower_arm_R\x2fhand_R\x2ffinger_01_R\x2ffinger_02_R"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.003696875, y: -0.01596488, z: -0.4707765, w: 0.8821003}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.003696875, y: -0.01596488, z: -0.4707765, w: 0.8821003}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_R\x2flower_arm_R\x2fhand_R\x2ffinger_01_R\x2ffinger_02_R\x2ffinger_03_R"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.03062947, y: 0.01242387, z: 0.6280799, w: 0.7774466}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.03062947, y: 0.01242387, z: 0.6280799, w: 0.7774466}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_R\x2flower_arm_R\x2fhand_R\x2fmiddle_finger_01_R"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.4514376, y: 0.8908872, z: -0.02680596, w: -0.04249255}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: -0.4514376, y: 0.8908872, z: -0.02680596, w: -0.04249255}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_R\x2flower_arm_R\x2fhand_R\x2fmiddle_finger_01_R\x2fmiddle_finger_02_R"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0093534, y: -0.01601858, z: -0.5225577, w: 0.8524022}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.0093534, y: -0.01601858, z: -0.5225577, w: 0.8524022}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_R\x2flower_arm_R\x2fhand_R\x2fmiddle_finger_01_R\x2fmiddle_finger_02_R\x2fmiddle_finger_03_R"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.6424302, y: 0.7279443, z: 0.001415128, w: 0.2395381}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: -0.6424302, y: 0.7279443, z: 0.001415128, w: 0.2395381}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_R\x2flower_arm_R\x2fhand_R\x2fthumb_01_R"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.5114118, y: 0.8563047, z: -0.06059662, w: -0.03909458}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: -0.5114118, y: 0.8563047, z: -0.06059662, w: -0.03909458}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_R\x2flower_arm_R\x2fhand_R\x2fthumb_01_R\x2fthumb_02_R"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.01312015, y: -0.00816219, z: -0.2216668, w: 0.975}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.01312015, y: -0.00816219, z: -0.2216668, w: 0.975}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2farm_R\x2flower_arm_R\x2fhand_R\x2fthumb_01_R\x2fthumb_02_R\x2fthumb_03_R"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.8744697, y: -0.003942987, z: 0.01029723, w: 0.4849548}
+        inSlope: {x: -0.1687395, y: -0.1748058, z: 0.3393623, w: 0.2942522}
+        outSlope: {x: -0.1687395, y: -0.1748058, z: 0.3393623, w: 0.2942522}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.03333334
+        value: {x: 0.8687006, y: -0.01165334, z: 0.02262486, w: 0.4946833}
+        inSlope: {x: -0.04725158, y: -0.2349175, z: 0.1618463, w: 0.07373571}
+        outSlope: {x: -0.04725158, y: -0.2349175, z: 0.1618463, w: 0.07373571}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1333333
+        value: {x: 0.8829603, y: -0.02355189, z: 0.01792035, w: 0.4685139}
+        inSlope: {x: 0.1946935, y: 0.01409512, z: 0.02124692, w: -0.3676924}
+        outSlope: {x: 0.1946935, y: 0.01409512, z: 0.02124692, w: -0.3676924}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2666667
+        value: {x: 0.8883234, y: -0.01782996, z: 0.01697238, w: 0.4585581}
+        inSlope: {x: -0.09918184, y: 0.1643887, z: -0.1526563, w: 0.2021139}
+        outSlope: {x: -0.09918184, y: 0.1643887, z: -0.1526563, w: 0.2021139}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.8799499, y: 3.812469E-07, z: 7.063592E-07, w: 0.4750665}
+        inSlope: {x: -0.03614721, y: 0.08404218, z: -0.08073419, w: 0.06763721}
+        outSlope: {x: -0.03614721, y: 0.08404218, z: -0.08073419, w: 0.06763721}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2fweapon"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.4750665, y: 1.426387E-06, z: 1.541636E-06, w: 0.8799499}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.4750665, y: 1.426387E-06, z: 1.541636E-06, w: 0.8799499}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2fweapon\x2fslider"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.3359231, y: -0.622219, z: -0.3359226, w: 0.622218}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.3359231, y: -0.622219, z: -0.3359226, w: 0.622218}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2fweapon\x2fflap"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.6585266, y: -0.006404543, z: 0.007966877, w: 0.752488}
+        inSlope: {x: -0.2582949, y: -0.2795524, z: 0.259828, w: 0.2200153}
+        outSlope: {x: -0.2582949, y: -0.2795524, z: 0.259828, w: 0.2200153}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.03333334
+        value: {x: 0.6498096, y: -0.01783923, z: 0.01694545, w: 0.7596987}
+        inSlope: {x: -0.06923498, y: -0.2758884, z: 0.07264441, w: 0.05352795}
+        outSlope: {x: -0.06923498, y: -0.2758884, z: 0.07264441, w: 0.05352795}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1333333
+        value: {x: 0.6721009, y: -0.02742968, z: 0.008512615, w: 0.7399024}
+        inSlope: {x: 0.3077137, y: 0.006219761, z: 0.02509809, w: -0.2799957}
+        outSlope: {x: 0.3077137, y: 0.006219761, z: 0.02509809, w: -0.2799957}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2666667
+        value: {x: 0.680514, y: -0.02172063, z: 0.009567756, w: 0.7323505}
+        inSlope: {x: -0.161916, y: 0.2062998, z: -0.08813623, w: 0.1564327}
+        outSlope: {x: -0.161916, y: 0.2062998, z: -0.08813623, w: 0.1564327}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.6670293, y: 0.0007976058, z: -0.0003764173, w: 0.745031}
+        inSlope: {x: -0.05698616, y: 0.1063912, z: -0.04755773, w: 0.05131777}
+        outSlope: {x: -0.05698616, y: 0.1063912, z: -0.04755773, w: 0.05131777}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2fmag"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.03302757, y: 0.0596952, z: 0.9881973, w: -0.1371563}
+        inSlope: {x: -0.3316486, y: 0.3873208, z: -0.009364485, w: 0.02616674}
+        outSlope: {x: -0.3316486, y: 0.3873208, z: -0.009364485, w: 0.02616674}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.03333334
+        value: {x: 0.02025247, y: 0.07279116, z: 0.9879585, w: -0.135016}
+        inSlope: {x: -0.2333502, y: 0.1152662, z: 0.0179395, w: 0.1448688}
+        outSlope: {x: -0.2333502, y: 0.1152662, z: 0.0179395, w: 0.1448688}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1333333
+        value: {x: 0.01528279, y: 0.04300353, z: 0.9912742, w: -0.1236634}
+        inSlope: {x: -0.06996256, y: -0.4088553, z: 0.01365423, w: -0.03884285}
+        outSlope: {x: -0.06996256, y: -0.4088553, z: 0.01365423, w: -0.03884285}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2666667
+        value: {x: 0.01703237, y: 0.03153212, z: 0.9910176, w: -0.1288403}
+        inSlope: {x: 0.2377453, y: 0.1968165, z: -0.02078891, w: -0.0729505}
+        outSlope: {x: 0.2377453, y: 0.1968165, z: -0.02078891, w: -0.0729505}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.04236238, y: 0.04696977, z: 0.9885828, w: -0.1367605}
+        inSlope: {x: 0.1185238, y: 0.06215858, z: -0.01284956, w: -0.03720355}
+        outSlope: {x: 0.1185238, y: 0.06215858, z: -0.01284956, w: -0.03720355}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2fIK_arm_L"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9910697, y: -0.05038508, z: 0.04993687, w: -0.1129097}
+        inSlope: {x: 0.01889437, y: 0.06803624, z: 0.3948255, w: 0.3160832}
+        outSlope: {x: 0.01889437, y: 0.06803624, z: 0.3948255, w: 0.3160832}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.03333334
+        value: {x: 0.9914036, y: -0.04905099, z: 0.06500713, w: -0.1024054}
+        inSlope: {x: -0.01248568, y: -0.09345374, z: 0.2719726, w: 0.07868619}
+        outSlope: {x: -0.01248568, y: -0.09345374, z: 0.2719726, w: 0.07868619}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1333333
+        value: {x: 0.9870989, y: -0.06260307, z: 0.06648133, w: -0.1315176}
+        inSlope: {x: -0.05395442, y: 0.007842161, z: -0.01332018, w: -0.4130421}
+        outSlope: {x: -0.05395442, y: 0.007842161, z: -0.01332018, w: -0.4130421}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2666667
+        value: {x: 0.9860753, y: -0.05893917, z: 0.0617914, w: -0.1427005}
+        inSlope: {x: 0.04851759, y: 0.05342592, z: -0.2068446, w: 0.2302681}
+        outSlope: {x: 0.04851759, y: 0.05342592, z: -0.2068446, w: 0.2302681}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.990144, y: -0.05358674, z: 0.03868543, w: -0.1234777}
+        inSlope: {x: 0.01599132, y: 0.02449559, z: -0.1101483, w: 0.08046307}
+        outSlope: {x: 0.01599132, y: 0.02449559, z: -0.1101483, w: 0.08046307}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2fIK_arm_R"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.001452549, y: -0.0009365742, z: 5.620888E-12, w: 0.9999985}
+        inSlope: {x: 0.0784975, y: -0.04557776, z: -3.091721E-11, w: -0.0002744794}
+        outSlope: {x: 0.0784975, y: -0.04557776, z: -3.091721E-11, w: -0.0002744794}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1666667
+        value: {x: 0.00116133, y: -0.002080314, z: 7.062266E-12, w: 0.9999972}
+        inSlope: {x: -0.1298017, y: 0.03263878, z: -3.581575E-10, w: 0.0003960727}
+        outSlope: {x: -0.1298017, y: 0.03263878, z: -3.581575E-10, w: 0.0003960727}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0, y: 0, z: -1.058791E-22, w: 1}
+        inSlope: {x: 0.01468765, y: -1.555116E-24, z: -3.786529E-28, w: 3.576276E-06}
+        outSlope: {x: 0.01468765, y: -1.555116E-24, z: -3.786529E-28, w: 3.576276E-06}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2fcamera"
+  m_CompressedRotationCurves: []
+  m_EulerCurves:
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.003028933, y: -0.07912955, z: 0.9294417}
+        inSlope: {x: 0.06827929, y: -0.02501875, z: -0.2390241}
+        outSlope: {x: 0.2054923, y: -0.06897837, z: -0.5765318}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.03333334
+        value: {x: 0.009878677, y: -0.08142883, z: 0.910224}
+        inSlope: {x: 0.2054923, y: -0.06897837, z: -0.5765318}
+        outSlope: {x: 0.334119, y: -0.1051641, z: -0.4395443}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: 0.02101598, y: -0.08493429, z: 0.8955725}
+        inSlope: {x: 0.334119, y: -0.1051641, z: -0.4395443}
+        outSlope: {x: 0.4370114, y: -0.1348024, z: -0.21335}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.03558302, y: -0.08942771, z: 0.8884608}
+        inSlope: {x: 0.4370114, y: -0.1348024, z: -0.21335}
+        outSlope: {x: 0.4950632, y: -0.1585713, z: -0.09250403}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1666667
+        value: {x: 0.06858723, y: -0.1006013, z: 0.8849497}
+        inSlope: {x: 0.4950631, y: -0.1766351, z: -0.0128299}
+        outSlope: {x: 0.4370119, y: -0.1885548, z: 0.1466274}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2
+        value: {x: 0.08315429, y: -0.1068864, z: 0.8898373}
+        inSlope: {x: 0.4370119, y: -0.1885548, z: 0.1466274}
+        outSlope: {x: 0.3341186, y: -0.1929236, z: 0.3835379}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2333333
+        value: {x: 0.09429158, y: -0.1133172, z: 0.9026219}
+        inSlope: {x: 0.3341186, y: -0.1929236, z: 0.3835379}
+        outSlope: {x: 0.2054921, y: -0.1863277, z: 0.383538}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2666667
+        value: {x: 0.1011413, y: -0.1195281, z: 0.9154065}
+        inSlope: {x: 0.2054921, y: -0.1863277, z: 0.383538}
+        outSlope: {x: 0.06827966, y: -0.1598807, z: 0.1466274}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3
+        value: {x: 0.1034173, y: -0.1248575, z: 0.920294}
+        inSlope: {x: 0.06827966, y: -0.1598807, z: 0.1466274}
+        outSlope: {x: 0, y: -0.0821145, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3333333
+        value: {x: 0.1034173, y: -0.1275946, z: 0.920294}
+        inSlope: {x: 0, y: -0.0821145, z: 0}
+        outSlope: {x: 0, y: -0.0821145, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2fweapon"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.005418282, y: -0.2139654, z: 0.8391126}
+        inSlope: {x: 0.1399597, y: -0.08722811, z: -0.1474768}
+        outSlope: {x: 0.275698, y: -0.1292101, z: -0.4815209}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.03333334
+        value: {x: 0.01460822, y: -0.2182724, z: 0.8230619}
+        inSlope: {x: 0.275698, y: -0.1292101, z: -0.4815209}
+        outSlope: {x: 0.2862021, y: -0.07700399, z: -0.4853636}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: 0.02414829, y: -0.2208392, z: 0.8068831}
+        inSlope: {x: 0.2862021, y: -0.07700399, z: -0.4853636}
+        outSlope: {x: 0.390541, y: -0.07415278, z: -0.3052461}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.03716632, y: -0.2233109, z: 0.7967082}
+        inSlope: {x: 0.390541, y: -0.07415278, z: -0.3052461}
+        outSlope: {x: 0.5033383, y: -0.08488566, z: -0.1969028}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1666667
+        value: {x: 0.07097802, y: -0.2291946, z: 0.7859356}
+        inSlope: {x: 0.5110126, y: -0.09162337, z: -0.1262748}
+        outSlope: {x: 0.450283, y: -0.1545319, z: 0.103299}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2
+        value: {x: 0.08598745, y: -0.2343456, z: 0.7893789}
+        inSlope: {x: 0.450283, y: -0.1545319, z: 0.103299}
+        outSlope: {x: 0.3376178, y: -0.2090741, z: 0.4042445}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2333333
+        value: {x: 0.09724138, y: -0.2413148, z: 0.8028538}
+        inSlope: {x: 0.3376178, y: -0.2090741, z: 0.4042445}
+        outSlope: {x: 0.1915833, y: -0.2234459, z: 0.431394}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2666667
+        value: {x: 0.1036275, y: -0.248763, z: 0.8172336}
+        inSlope: {x: 0.1915833, y: -0.2234459, z: 0.431394}
+        outSlope: {x: 0.03576592, y: -0.2102615, z: 0.2134931}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3
+        value: {x: 0.1048197, y: -0.2557717, z: 0.82435}
+        inSlope: {x: 0.03576592, y: -0.2102615, z: 0.2134931}
+        outSlope: {x: -0.03070705, y: -0.1231921, z: 0.05661607}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.1034173, y: -0.2603568, z: 0.8269134}
+        inSlope: {x: -0.0113643, y: -0.01436234, z: 0.02028465}
+        outSlope: {x: -0.0113643, y: -0.01436234, z: 0.02028465}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2fmag"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.03632215, y: -0.3009672, z: 0.9169607}
+        inSlope: {x: 0.09673207, y: -0.03828674, z: -0.1148182}
+        outSlope: {x: 0.2028854, y: -0.07401823, z: -0.4607624}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.03333334
+        value: {x: -0.0295593, y: -0.3034345, z: 0.9016019}
+        inSlope: {x: 0.2028854, y: -0.07401823, z: -0.4607624}
+        outSlope: {x: 0.2355561, y: -0.08320839, z: -0.5213965}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -0.02170743, y: -0.3062081, z: 0.884222}
+        inSlope: {x: 0.2355561, y: -0.08320839, z: -0.5213965}
+        outSlope: {x: 0.3688193, y: -0.1120296, z: -0.3610181}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.009413451, y: -0.3099425, z: 0.8721881}
+        inSlope: {x: 0.3688193, y: -0.1120296, z: -0.3610181}
+        outSlope: {x: 0.5054829, y: -0.1454955, z: -0.2670425}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1333333
+        value: {x: 0.007435977, y: -0.3147923, z: 0.8632867}
+        inSlope: {x: 0.5054829, y: -0.1454955, z: -0.2670425}
+        outSlope: {x: 0.5157915, y: -0.1584676, z: -0.2067518}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1666667
+        value: {x: 0.02462903, y: -0.3200746, z: 0.8563949}
+        inSlope: {x: 0.5157915, y: -0.1584676, z: -0.2067518}
+        outSlope: {x: 0.4559394, y: -0.1820541, z: 0.07108749}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2
+        value: {x: 0.039827, y: -0.326143, z: 0.8587645}
+        inSlope: {x: 0.4559394, y: -0.1820541, z: 0.07108749}
+        outSlope: {x: 0.3423879, y: -0.1995974, z: 0.4198675}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2333333
+        value: {x: 0.05123994, y: -0.3327963, z: 0.8727601}
+        inSlope: {x: 0.3423879, y: -0.1995974, z: 0.4198675}
+        outSlope: {x: 0.2174784, y: -0.2007473, z: 0.4773528}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2666667
+        value: {x: 0.05848922, y: -0.3394879, z: 0.8886719}
+        inSlope: {x: 0.2174784, y: -0.2007473, z: 0.4773528}
+        outSlope: {x: 0.09689704, y: -0.1809105, z: 0.287059}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3
+        value: {x: 0.06171912, y: -0.3455182, z: 0.8982405}
+        inSlope: {x: 0.09689704, y: -0.1809105, z: 0.287059}
+        outSlope: {x: 0.03005326, y: -0.09861142, z: 0.1200324}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.0631178, y: -0.3489901, z: 0.9036728}
+        inSlope: {x: 0.01190722, y: -0.005545021, z: 0.04293681}
+        outSlope: {x: 0.01190722, y: -0.005545021, z: 0.04293681}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2fIK_arm_L"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.02815599, y: 0.01162867, z: 0.925997}
+        inSlope: {x: 0.0623057, y: -0.02469532, z: -0.2840352}
+        outSlope: {x: 0.2138972, y: -0.07309622, z: -0.6158423}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.03333334
+        value: {x: 0.0352859, y: 0.009192124, z: 0.9054689}
+        inSlope: {x: 0.2138972, y: -0.07309622, z: -0.6158423}
+        outSlope: {x: 0.3756256, y: -0.115533, z: -0.4046864}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: 0.04780675, y: 0.005341023, z: 0.8919794}
+        inSlope: {x: 0.3756256, y: -0.115533, z: -0.4046864}
+        outSlope: {x: 0.4643601, y: -0.1413457, z: -0.153628}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.06328543, y: 0.0006294996, z: 0.8868585}
+        inSlope: {x: 0.4643601, y: -0.1413457, z: -0.153628}
+        outSlope: {x: 0.4910036, y: -0.1570018, z: -0.02090514}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1333333
+        value: {x: 0.07965221, y: -0.004603893, z: 0.8861616}
+        inSlope: {x: 0.4910036, y: -0.1570018, z: -0.02090514}
+        outSlope: {x: 0.486935, y: -0.1760388, z: 0.06710351}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1666667
+        value: {x: 0.09588338, y: -0.01047185, z: 0.8883984}
+        inSlope: {x: 0.486935, y: -0.1760388, z: 0.06710351}
+        outSlope: {x: 0.4294577, y: -0.1876554, z: 0.1779217}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2
+        value: {x: 0.1101986, y: -0.01672703, z: 0.8943291}
+        inSlope: {x: 0.4294577, y: -0.1876554, z: 0.1779217}
+        outSlope: {x: 0.3305862, y: -0.1911592, z: 0.3684513}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2333333
+        value: {x: 0.1212182, y: -0.02309901, z: 0.9066108}
+        inSlope: {x: 0.3305862, y: -0.1911592, z: 0.3684513}
+        outSlope: {x: 0.1984553, y: -0.1827385, z: 0.3426504}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2666667
+        value: {x: 0.1278334, y: -0.02919029, z: 0.9180325}
+        inSlope: {x: 0.1984553, y: -0.1827385, z: 0.3426504}
+        outSlope: {x: 0.05148724, y: -0.1538783, z: 0.08354545}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3
+        value: {x: 0.1295496, y: -0.03431956, z: 0.9208174}
+        inSlope: {x: 0.05148724, y: -0.1538783, z: 0.08354545}
+        outSlope: {x: -0.01736462, y: -0.07739202, z: -0.05446852}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3333333
+        value: {x: 0.1289708, y: -0.0368993, z: 0.9190018}
+        inSlope: {x: -0.01736462, y: -0.07739202, z: -0.05446852}
+        outSlope: {x: -0.006818623, y: 0.001562834, z: -0.01956046}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.1287435, y: -0.0368472, z: 0.9183497}
+        inSlope: {x: -0.006818623, y: 0.001562834, z: -0.01956046}
+        outSlope: {x: -0.006818623, y: 0.001562834, z: -0.01956046}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Armature\x2fIK_arm_R"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.003028933, y: -0.07912955, z: 0.9294417}
+        inSlope: {x: 0.06827929, y: -0.02501875, z: -0.2390241}
+        outSlope: {x: 0.2054923, y: -0.06897837, z: -0.5765318}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.03333334
+        value: {x: 0.009878677, y: -0.08142883, z: 0.910224}
+        inSlope: {x: 0.2054923, y: -0.06897837, z: -0.5765318}
+        outSlope: {x: 0.334119, y: -0.1051641, z: -0.4395443}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: 0.02101598, y: -0.08493429, z: 0.8955725}
+        inSlope: {x: 0.334119, y: -0.1051641, z: -0.4395443}
+        outSlope: {x: 0.4370114, y: -0.1348024, z: -0.21335}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.03558302, y: -0.08942771, z: 0.8884608}
+        inSlope: {x: 0.4370114, y: -0.1348024, z: -0.21335}
+        outSlope: {x: 0.4950632, y: -0.1585713, z: -0.09250403}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1666667
+        value: {x: 0.06858723, y: -0.1006013, z: 0.8849497}
+        inSlope: {x: 0.4950631, y: -0.1766351, z: -0.0128299}
+        outSlope: {x: 0.4370119, y: -0.1885548, z: 0.1466274}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2
+        value: {x: 0.08315429, y: -0.1068864, z: 0.8898373}
+        inSlope: {x: 0.4370119, y: -0.1885548, z: 0.1466274}
+        outSlope: {x: 0.3341186, y: -0.1929236, z: 0.3835379}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2333333
+        value: {x: 0.09429158, y: -0.1133172, z: 0.9026219}
+        inSlope: {x: 0.3341186, y: -0.1929236, z: 0.3835379}
+        outSlope: {x: 0.2054921, y: -0.1863277, z: 0.383538}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2666667
+        value: {x: 0.1011413, y: -0.1195281, z: 0.9154065}
+        inSlope: {x: 0.2054921, y: -0.1863277, z: 0.383538}
+        outSlope: {x: 0.06827966, y: -0.1598807, z: 0.1466274}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3
+        value: {x: 0.1034173, y: -0.1248575, z: 0.920294}
+        inSlope: {x: 0.06827966, y: -0.1598807, z: 0.1466274}
+        outSlope: {x: 0, y: -0.0821145, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3333333
+        value: {x: 0.1034173, y: -0.1275946, z: 0.920294}
+        inSlope: {x: 0, y: -0.0821145, z: 0}
+        outSlope: {x: 0, y: -0.0821145, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Armature/weapon
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.005418282, y: -0.2139654, z: 0.8391126}
+        inSlope: {x: 0.1399597, y: -0.08722811, z: -0.1474768}
+        outSlope: {x: 0.275698, y: -0.1292101, z: -0.4815209}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.03333334
+        value: {x: 0.01460822, y: -0.2182724, z: 0.8230619}
+        inSlope: {x: 0.275698, y: -0.1292101, z: -0.4815209}
+        outSlope: {x: 0.2862021, y: -0.07700399, z: -0.4853636}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: 0.02414829, y: -0.2208392, z: 0.8068831}
+        inSlope: {x: 0.2862021, y: -0.07700399, z: -0.4853636}
+        outSlope: {x: 0.390541, y: -0.07415278, z: -0.3052461}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.03716632, y: -0.2233109, z: 0.7967082}
+        inSlope: {x: 0.390541, y: -0.07415278, z: -0.3052461}
+        outSlope: {x: 0.5033383, y: -0.08488566, z: -0.1969028}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1666667
+        value: {x: 0.07097802, y: -0.2291946, z: 0.7859356}
+        inSlope: {x: 0.5110126, y: -0.09162337, z: -0.1262748}
+        outSlope: {x: 0.450283, y: -0.1545319, z: 0.103299}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2
+        value: {x: 0.08598745, y: -0.2343456, z: 0.7893789}
+        inSlope: {x: 0.450283, y: -0.1545319, z: 0.103299}
+        outSlope: {x: 0.3376178, y: -0.2090741, z: 0.4042445}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2333333
+        value: {x: 0.09724138, y: -0.2413148, z: 0.8028538}
+        inSlope: {x: 0.3376178, y: -0.2090741, z: 0.4042445}
+        outSlope: {x: 0.1915833, y: -0.2234459, z: 0.431394}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2666667
+        value: {x: 0.1036275, y: -0.248763, z: 0.8172336}
+        inSlope: {x: 0.1915833, y: -0.2234459, z: 0.431394}
+        outSlope: {x: 0.03576592, y: -0.2102615, z: 0.2134931}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3
+        value: {x: 0.1048197, y: -0.2557717, z: 0.82435}
+        inSlope: {x: 0.03576592, y: -0.2102615, z: 0.2134931}
+        outSlope: {x: -0.03070705, y: -0.1231921, z: 0.05661607}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.1034173, y: -0.2603568, z: 0.8269134}
+        inSlope: {x: -0.0113643, y: -0.01436234, z: 0.02028465}
+        outSlope: {x: -0.0113643, y: -0.01436234, z: 0.02028465}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Armature/mag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.03632215, y: -0.3009672, z: 0.9169607}
+        inSlope: {x: 0.09673207, y: -0.03828674, z: -0.1148182}
+        outSlope: {x: 0.2028854, y: -0.07401823, z: -0.4607624}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.03333334
+        value: {x: -0.0295593, y: -0.3034345, z: 0.9016019}
+        inSlope: {x: 0.2028854, y: -0.07401823, z: -0.4607624}
+        outSlope: {x: 0.2355561, y: -0.08320839, z: -0.5213965}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -0.02170743, y: -0.3062081, z: 0.884222}
+        inSlope: {x: 0.2355561, y: -0.08320839, z: -0.5213965}
+        outSlope: {x: 0.3688193, y: -0.1120296, z: -0.3610181}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.009413451, y: -0.3099425, z: 0.8721881}
+        inSlope: {x: 0.3688193, y: -0.1120296, z: -0.3610181}
+        outSlope: {x: 0.5054829, y: -0.1454955, z: -0.2670425}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1333333
+        value: {x: 0.007435977, y: -0.3147923, z: 0.8632867}
+        inSlope: {x: 0.5054829, y: -0.1454955, z: -0.2670425}
+        outSlope: {x: 0.5157915, y: -0.1584676, z: -0.2067518}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1666667
+        value: {x: 0.02462903, y: -0.3200746, z: 0.8563949}
+        inSlope: {x: 0.5157915, y: -0.1584676, z: -0.2067518}
+        outSlope: {x: 0.4559394, y: -0.1820541, z: 0.07108749}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2
+        value: {x: 0.039827, y: -0.326143, z: 0.8587645}
+        inSlope: {x: 0.4559394, y: -0.1820541, z: 0.07108749}
+        outSlope: {x: 0.3423879, y: -0.1995974, z: 0.4198675}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2333333
+        value: {x: 0.05123994, y: -0.3327963, z: 0.8727601}
+        inSlope: {x: 0.3423879, y: -0.1995974, z: 0.4198675}
+        outSlope: {x: 0.2174784, y: -0.2007473, z: 0.4773528}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2666667
+        value: {x: 0.05848922, y: -0.3394879, z: 0.8886719}
+        inSlope: {x: 0.2174784, y: -0.2007473, z: 0.4773528}
+        outSlope: {x: 0.09689704, y: -0.1809105, z: 0.287059}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3
+        value: {x: 0.06171912, y: -0.3455182, z: 0.8982405}
+        inSlope: {x: 0.09689704, y: -0.1809105, z: 0.287059}
+        outSlope: {x: 0.03005326, y: -0.09861142, z: 0.1200324}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.0631178, y: -0.3489901, z: 0.9036728}
+        inSlope: {x: 0.01190722, y: -0.005545021, z: 0.04293681}
+        outSlope: {x: 0.01190722, y: -0.005545021, z: 0.04293681}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Armature/IK_arm_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.02815599, y: 0.01162867, z: 0.925997}
+        inSlope: {x: 0.0623057, y: -0.02469532, z: -0.2840352}
+        outSlope: {x: 0.2138972, y: -0.07309622, z: -0.6158423}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.03333334
+        value: {x: 0.0352859, y: 0.009192124, z: 0.9054689}
+        inSlope: {x: 0.2138972, y: -0.07309622, z: -0.6158423}
+        outSlope: {x: 0.3756256, y: -0.115533, z: -0.4046864}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: 0.04780675, y: 0.005341023, z: 0.8919794}
+        inSlope: {x: 0.3756256, y: -0.115533, z: -0.4046864}
+        outSlope: {x: 0.4643601, y: -0.1413457, z: -0.153628}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.06328543, y: 0.0006294996, z: 0.8868585}
+        inSlope: {x: 0.4643601, y: -0.1413457, z: -0.153628}
+        outSlope: {x: 0.4910036, y: -0.1570018, z: -0.02090514}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1333333
+        value: {x: 0.07965221, y: -0.004603893, z: 0.8861616}
+        inSlope: {x: 0.4910036, y: -0.1570018, z: -0.02090514}
+        outSlope: {x: 0.486935, y: -0.1760388, z: 0.06710351}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1666667
+        value: {x: 0.09588338, y: -0.01047185, z: 0.8883984}
+        inSlope: {x: 0.486935, y: -0.1760388, z: 0.06710351}
+        outSlope: {x: 0.4294577, y: -0.1876554, z: 0.1779217}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2
+        value: {x: 0.1101986, y: -0.01672703, z: 0.8943291}
+        inSlope: {x: 0.4294577, y: -0.1876554, z: 0.1779217}
+        outSlope: {x: 0.3305862, y: -0.1911592, z: 0.3684513}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2333333
+        value: {x: 0.1212182, y: -0.02309901, z: 0.9066108}
+        inSlope: {x: 0.3305862, y: -0.1911592, z: 0.3684513}
+        outSlope: {x: 0.1984553, y: -0.1827385, z: 0.3426504}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2666667
+        value: {x: 0.1278334, y: -0.02919029, z: 0.9180325}
+        inSlope: {x: 0.1984553, y: -0.1827385, z: 0.3426504}
+        outSlope: {x: 0.05148724, y: -0.1538783, z: 0.08354545}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3
+        value: {x: 0.1295496, y: -0.03431956, z: 0.9208174}
+        inSlope: {x: 0.05148724, y: -0.1538783, z: 0.08354545}
+        outSlope: {x: -0.01736462, y: -0.07739202, z: -0.05446852}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3333333
+        value: {x: 0.1289708, y: -0.0368993, z: 0.9190018}
+        inSlope: {x: -0.01736462, y: -0.07739202, z: -0.05446852}
+        outSlope: {x: -0.006818623, y: 0.001562834, z: -0.01956046}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666667
+        value: {x: 0.1287435, y: -0.0368472, z: 0.9183497}
+        inSlope: {x: -0.006818623, y: 0.001562834, z: -0.01956046}
+        outSlope: {x: -0.006818623, y: 0.001562834, z: -0.01956046}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Armature/IK_arm_R
+  m_ScaleCurves:
+  m_FloatCurves:
+  m_PPtrCurves:
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0.01867217, y: -0.1080919, z: 0.227231}
+    m_Extent: {x: 0.2684659, y: 0.2116255, z: 0.6144155}
+  m_MuscleClipSize: 0
+  m_MuscleClip:
+    serializedVersion: 3
+    m_DeltaPose:
+      m_RootX:
+        t: {x: 0, y: 0, z: 0}
+        q: {x: 0, y: 0, z: 0, w: 1}
+        s: {x: 1, y: 1, z: 1}
+      m_LookAtPosition: {x: 0, y: 0, z: 0}
+      m_LookAtWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_GoalArray:
+      - m_X:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+          m_Weight: 
+          m_WeightR: 0
+          m_HintT: {x: 0, y: 0, z: 0}
+          m_HintWeightT: 0
+      - m_X:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+          m_Weight: 
+          m_WeightR: 0
+          m_HintT: {x: 0, y: 0, z: 0}
+          m_HintWeightT: 0
+      - m_X:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+          m_Weight: 
+          m_WeightR: 0
+          m_HintT: {x: 0, y: 0, z: 0}
+          m_HintWeightT: 0
+      - m_X:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+          m_Weight: 
+          m_WeightR: 0
+          m_HintT: {x: 0, y: 0, z: 0}
+          m_HintWeightT: 0
+      m_LeftHandPose:
+        m_GrabX:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        m_DoFArray:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        m_Override: 0
+        m_CloseOpen: 0
+        m_InOut: 0
+        m_Grab: 0
+      m_RightHandPose:
+        m_GrabX:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        m_DoFArray:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        m_Override: 0
+        m_CloseOpen: 0
+        m_InOut: 0
+        m_Grab: 0
+      m_DoFArray:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+      m_TDoFArray:
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+    m_StartX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_StopX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_LeftFootStartX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_RightFootStartX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_AverageSpeed: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    pptrCurveMapping:
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 
+    m_StartTime: 0
+    m_StopTime: 1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+    m_HasGenericRootTransform: 0
+    m_HasMotionFloatCurves: 0
+    m_GenerateMotionCurves: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.3643466
+        inSlope: -0.2739425
+        outSlope: -0.2739425
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666668
+        value: 0.3367837
+        inSlope: -0.4121656
+        outSlope: -0.4121656
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: 0.2911131
+        inSlope: -0.438289
+        outSlope: -0.438289
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: 0.2673693
+        inSlope: 0.02050817
+        outSlope: 0.02050817
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.2682934
+        inSlope: -0.0008779757
+        outSlope: -0.0008779757
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.2502385
+        inSlope: -0.4375411
+        outSlope: -0.4375411
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666668
+        value: -0.2993398
+        inSlope: -0.5162921
+        outSlope: -0.5162921
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: -0.3000003
+        inSlope: 0.4381697
+        outSlope: 0.4381697
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: -0.1753428
+        inSlope: 0.5755305
+        outSlope: 0.5755305
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.1603586
+        inSlope: 0.08650921
+        outSlope: 0.08650921
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.8969242
+        inSlope: -0.01484603
+        outSlope: -0.01484603
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666668
+        value: 0.8912445
+        inSlope: -0.0719279
+        outSlope: -0.0719279
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: 0.8945187
+        inSlope: 0.1359639
+        outSlope: 0.1359639
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: 0.9270867
+        inSlope: 0.1173538
+        outSlope: 0.1173538
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.9298729
+        inSlope: 0.01533328
+        outSlope: 0.01533328
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.01262024
+        inSlope: -0.6541513
+        outSlope: -0.6541513
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666668
+        value: -0.05153445
+        inSlope: -1.002108
+        outSlope: -1.002108
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: -0.1583959
+        inSlope: -0.8784758
+        outSlope: -0.8784758
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: -0.1956496
+        inSlope: 0.04654304
+        outSlope: 0.04654304
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.194011
+        inSlope: 0.0001068412
+        outSlope: 0.0001068412
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.5334004
+        inSlope: -0.07709204
+        outSlope: -0.07709204
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.4971867
+        inSlope: -0.5656461
+        outSlope: -0.5656461
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.4110583
+        inSlope: -0.5630431
+        outSlope: -0.5630431
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.3849845
+        inSlope: -0.03640112
+        outSlope: -0.03640112
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_L/lower_arm_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.462006
+        inSlope: 0.08919551
+        outSlope: 0.08919551
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.5009307
+        inSlope: 0.560912
+        outSlope: 0.560912
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.5740157
+        inSlope: 0.40869
+        outSlope: 0.40869
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.5918946
+        inSlope: 0.02383409
+        outSlope: 0.02383409
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_L/lower_arm_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.5365555
+        inSlope: -0.07754713
+        outSlope: -0.07754713
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.5001274
+        inSlope: -0.5689917
+        outSlope: -0.5689917
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.4134893
+        inSlope: -0.5663762
+        outSlope: -0.5663762
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.3872611
+        inSlope: -0.03662196
+        outSlope: -0.03662196
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_L/lower_arm_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.4627557
+        inSlope: 0.08934214
+        outSlope: 0.08934214
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.5017434
+        inSlope: 0.5618217
+        outSlope: 0.5618217
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.5749467
+        inSlope: 0.4093534
+        outSlope: 0.4093534
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.5928546
+        inSlope: 0.02386985
+        outSlope: 0.02386985
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_L/lower_arm_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.1972136
+        inSlope: 0.7953711
+        outSlope: 0.7953711
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: -0.1632695
+        inSlope: 0.8333118
+        outSlope: 0.8333118
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: -0.1137519
+        inSlope: 0.3950587
+        outSlope: 0.3950587
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: -0.09147712
+        inSlope: -0.04813034
+        outSlope: -0.04813034
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.1036647
+        inSlope: -0.05528967
+        outSlope: -0.05528967
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_L/lower_arm_L/hand_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.402162
+        inSlope: -0.7402472
+        outSlope: -0.7402472
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: -0.4385556
+        inSlope: -1.075108
+        outSlope: -1.075108
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: -0.5268891
+        inSlope: -0.6499305
+        outSlope: -0.6499305
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: -0.5583065
+        inSlope: -0.004827082
+        outSlope: -0.004827082
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.5682707
+        inSlope: -0.08060747
+        outSlope: -0.08060747
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_L/lower_arm_L/hand_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.420351
+        inSlope: 0.2612266
+        outSlope: 0.2612266
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: -0.4084896
+        inSlope: 0.2643478
+        outSlope: 0.2643478
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: -0.3941432
+        inSlope: 0.1745948
+        outSlope: 0.1745948
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: -0.3820347
+        inSlope: 0.07789762
+        outSlope: 0.07789762
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.3560211
+        inSlope: 0.0573572
+        outSlope: 0.0573572
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_L/lower_arm_L/hand_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.7890992
+        inSlope: -0.05911588
+        outSlope: -0.05911588
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.7836761
+        inSlope: -0.2833476
+        outSlope: -0.2833476
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.7443786
+        inSlope: -0.3038317
+        outSlope: -0.3038317
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: 0.7307361
+        inSlope: 0.03067196
+        outSlope: 0.03067196
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.7345551
+        inSlope: -0.04202839
+        outSlope: -0.04202839
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_L/lower_arm_L/hand_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.02836479
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.02836479
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_L/lower_arm_L/hand_L/finger_01_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.06956457
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.06956457
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_L/lower_arm_L/hand_L/finger_01_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.5837142
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.5837142
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_L/lower_arm_L/hand_L/finger_01_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.8084763
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.8084763
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_L/lower_arm_L/hand_L/finger_01_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.5728257
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.5728257
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_L/lower_arm_L/hand_L/finger_01_L/finger_02_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.8185116
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.8185116
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_L/lower_arm_L/hand_L/finger_01_L/finger_02_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.02287382
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.02287382
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_L/lower_arm_L/hand_L/finger_01_L/finger_02_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.03723322
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.03723322
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_L/lower_arm_L/hand_L/finger_01_L/finger_02_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.01721578
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.01721578
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_L/lower_arm_L/hand_L/finger_01_L/finger_02_L/finger_03_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.01282257
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.01282257
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_L/lower_arm_L/hand_L/finger_01_L/finger_02_L/finger_03_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.3701021
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.3701021
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_L/lower_arm_L/hand_L/finger_01_L/finger_02_L/finger_03_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9287431
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.9287431
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_L/lower_arm_L/hand_L/finger_01_L/finger_02_L/finger_03_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.02338026
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.02338026
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_L/lower_arm_L/hand_L/middle_finger_01_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.01466177
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.01466177
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_L/lower_arm_L/hand_L/middle_finger_01_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.6676674
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.6676674
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_L/lower_arm_L/hand_L/middle_finger_01_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.743948
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.743948
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_L/lower_arm_L/hand_L/middle_finger_01_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.401277
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.401277
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_L/lower_arm_L/hand_L/middle_finger_01_L/middle_finger_02_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9141196
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.9141196
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_L/lower_arm_L/hand_L/middle_finger_01_L/middle_finger_02_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.04073085
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.04073085
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_L/lower_arm_L/hand_L/middle_finger_01_L/middle_finger_02_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.04126956
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.04126956
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_L/lower_arm_L/hand_L/middle_finger_01_L/middle_finger_02_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.02718078
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.02718078
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_L/lower_arm_L/hand_L/middle_finger_01_L/middle_finger_02_L/middle_finger_03_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.02376704
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.02376704
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_L/lower_arm_L/hand_L/middle_finger_01_L/middle_finger_02_L/middle_finger_03_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.6202462
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.6202462
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_L/lower_arm_L/hand_L/middle_finger_01_L/middle_finger_02_L/middle_finger_03_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.7835757
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.7835757
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_L/lower_arm_L/hand_L/middle_finger_01_L/middle_finger_02_L/middle_finger_03_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.5509519
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.5509519
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_L/lower_arm_L/hand_L/thumb_01_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.7802524
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.7802524
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_L/lower_arm_L/hand_L/thumb_01_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.03341635
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.03341635
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_L/lower_arm_L/hand_L/thumb_01_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.2941794
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.2941794
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_L/lower_arm_L/hand_L/thumb_01_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.6377455
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.6377455
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_L/lower_arm_L/hand_L/thumb_01_L/thumb_02_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.4169545
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.4169545
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_L/lower_arm_L/hand_L/thumb_01_L/thumb_02_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.09086204
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.09086204
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_L/lower_arm_L/hand_L/thumb_01_L/thumb_02_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.6412284
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.6412284
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_L/lower_arm_L/hand_L/thumb_01_L/thumb_02_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.2469803
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.2469803
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_L/lower_arm_L/hand_L/thumb_01_L/thumb_02_L/thumb_03_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.01218019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.01218019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_L/lower_arm_L/hand_L/thumb_01_L/thumb_02_L/thumb_03_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.1417729
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.1417729
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_L/lower_arm_L/hand_L/thumb_01_L/thumb_02_L/thumb_03_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9585159
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.9585159
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_L/lower_arm_L/hand_L/thumb_01_L/thumb_02_L/thumb_03_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.2891584
+        inSlope: -0.2054755
+        outSlope: -0.2054755
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666668
+        value: -0.2991375
+        inSlope: 0.08099513
+        outSlope: 0.08099513
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: -0.2293745
+        inSlope: 0.4802478
+        outSlope: 0.4802478
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: -0.2106052
+        inSlope: 0.07675343
+        outSlope: 0.07675343
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.2110333
+        inSlope: -0.01389249
+        outSlope: -0.01389249
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.4742989
+        inSlope: -0.6887438
+        outSlope: -0.6887438
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666668
+        value: -0.5332421
+        inSlope: -0.7167971
+        outSlope: -0.7167971
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: -0.5701377
+        inSlope: 0.4086569
+        outSlope: 0.4086569
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: -0.545817
+        inSlope: 0.1396832
+        outSlope: 0.1396832
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.5455362
+        inSlope: -0.02238212
+        outSlope: -0.02238212
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.7844824
+        inSlope: -0.3915739
+        outSlope: -0.3915739
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666668
+        value: 0.7553623
+        inSlope: -0.2281576
+        outSlope: -0.2281576
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: 0.7828287
+        inSlope: 0.50982
+        outSlope: 0.50982
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: 0.8072243
+        inSlope: 0.1225707
+        outSlope: 0.1225707
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.8072208
+        inSlope: -0.02008794
+        outSlope: -0.02008794
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.275709
+        inSlope: -0.3222267
+        outSlope: -0.3222267
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666668
+        value: 0.2357909
+        inSlope: -0.7819234
+        outSlope: -0.7819234
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: 0.09751701
+        inSlope: -0.5500454
+        outSlope: -0.5500454
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: 0.07821929
+        inSlope: -0.06700896
+        outSlope: -0.06700896
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.07905631
+        inSlope: 0.01384421
+        outSlope: 0.01384421
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.5881757
+        inSlope: -0.02129495
+        outSlope: -0.02129495
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.5972996
+        inSlope: 0.1184624
+        outSlope: 0.1184624
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: 0.6008993
+        inSlope: -0.09239406
+        outSlope: -0.09239406
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.5979947
+        inSlope: -0.004250403
+        outSlope: -0.004250403
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_R/lower_arm_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.3924906
+        inSlope: -0.03186687
+        outSlope: -0.03186687
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: -0.378461
+        inSlope: 0.1865543
+        outSlope: 0.1865543
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: -0.3727192
+        inSlope: -0.1492573
+        outSlope: -0.1492573
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.377362
+        inSlope: -0.00675022
+        outSlope: -0.00675022
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_R/lower_arm_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.5881757
+        inSlope: 0.02129316
+        outSlope: 0.02129316
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: -0.5972997
+        inSlope: -0.1184615
+        outSlope: -0.1184615
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: -0.6008994
+        inSlope: 0.09239227
+        outSlope: 0.09239227
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.5979945
+        inSlope: 0.004259344
+        outSlope: 0.004259344
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_R/lower_arm_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.3924919
+        inSlope: 0.03186687
+        outSlope: 0.03186687
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.3784622
+        inSlope: -0.1865472
+        outSlope: -0.1865472
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: 0.3727202
+        inSlope: 0.14926
+        outSlope: 0.14926
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.3773629
+        inSlope: 0.006738598
+        outSlope: 0.006738598
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_R/lower_arm_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.5933952
+        inSlope: -0.6840437
+        outSlope: -0.6840437
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.5626267
+        inSlope: -0.8527796
+        outSlope: -0.8527796
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.5057322
+        inSlope: -0.3436799
+        outSlope: -0.3436799
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: 0.47762
+        inSlope: -0.1504541
+        outSlope: -0.1504541
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.4739536
+        inSlope: -0.1435737
+        outSlope: -0.1435737
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333333
+        value: 0.4630763
+        inSlope: -0.08624732
+        outSlope: -0.08624732
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.4622986
+        inSlope: -0.02333073
+        outSlope: -0.02333073
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_R/lower_arm_R/hand_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.5298901
+        inSlope: -0.298807
+        outSlope: -0.298807
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: -0.5465171
+        inSlope: -0.6201535
+        outSlope: -0.6201535
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: -0.6047937
+        inSlope: -0.3492379
+        outSlope: -0.3492379
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: -0.6195366
+        inSlope: 0.0001627207
+        outSlope: 0.0001627207
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: -0.6202877
+        inSlope: -0.1462957
+        outSlope: -0.1462957
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333333
+        value: -0.6388875
+        inSlope: -0.1875418
+        outSlope: -0.1875418
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.6417924
+        inSlope: -0.08714668
+        outSlope: -0.08714668
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_R/lower_arm_R/hand_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.1174256
+        inSlope: -0.4913588
+        outSlope: -0.4913588
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.09707093
+        inSlope: -0.2408071
+        outSlope: -0.2408071
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.1512084
+        inSlope: 0.9418522
+        outSlope: 0.9418522
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: 0.2522759
+        inSlope: 0.8277792
+        outSlope: 0.8277792
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.2736995
+        inSlope: 0.2547182
+        outSlope: 0.2547182
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333333
+        value: 0.2554428
+        inSlope: -0.2838022
+        outSlope: -0.2838022
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.250337
+        inSlope: -0.1531746
+        outSlope: -0.1531746
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_R/lower_arm_R/hand_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.5943987
+        inSlope: 0.4963437
+        outSlope: 0.4963437
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.6126561
+        inSlope: 0.2761826
+        outSlope: 0.2761826
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.5963183
+        inSlope: -0.3052773
+        outSlope: -0.3052773
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: 0.5695704
+        inSlope: -0.2309784
+        outSlope: -0.2309784
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.5618716
+        inSlope: -0.1592964
+        outSlope: -0.1592964
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333333
+        value: 0.5586878
+        inSlope: -0.009557601
+        outSlope: -0.009557601
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.5583135
+        inSlope: -0.01122951
+        outSlope: -0.01122951
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_R/lower_arm_R/hand_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.124974
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.124974
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_R/lower_arm_R/hand_R/finger_01_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.0378805
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.0378805
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_R/lower_arm_R/hand_R/finger_01_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.1005314
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.1005314
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_R/lower_arm_R/hand_R/finger_01_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9863265
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.9863265
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_R/lower_arm_R/hand_R/finger_01_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.4041536
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.4041536
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_R/lower_arm_R/hand_R/finger_01_R/finger_02_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9146737
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.9146737
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_R/lower_arm_R/hand_R/finger_01_R/finger_02_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.00489479
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.00489479
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_R/lower_arm_R/hand_R/finger_01_R/finger_02_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.002807757
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.002807757
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_R/lower_arm_R/hand_R/finger_01_R/finger_02_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.003696875
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.003696875
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_R/lower_arm_R/hand_R/finger_01_R/finger_02_R/finger_03_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.01596488
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.01596488
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_R/lower_arm_R/hand_R/finger_01_R/finger_02_R/finger_03_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.4707765
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.4707765
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_R/lower_arm_R/hand_R/finger_01_R/finger_02_R/finger_03_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.8821003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.8821003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_R/lower_arm_R/hand_R/finger_01_R/finger_02_R/finger_03_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.03062947
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.03062947
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_R/lower_arm_R/hand_R/middle_finger_01_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.01242387
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.01242387
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_R/lower_arm_R/hand_R/middle_finger_01_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.6280799
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.6280799
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_R/lower_arm_R/hand_R/middle_finger_01_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.7774466
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.7774466
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_R/lower_arm_R/hand_R/middle_finger_01_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.4514376
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.4514376
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_R/lower_arm_R/hand_R/middle_finger_01_R/middle_finger_02_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.8908872
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.8908872
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_R/lower_arm_R/hand_R/middle_finger_01_R/middle_finger_02_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.02680596
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.02680596
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_R/lower_arm_R/hand_R/middle_finger_01_R/middle_finger_02_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.04249255
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.04249255
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_R/lower_arm_R/hand_R/middle_finger_01_R/middle_finger_02_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0093534
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.0093534
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_R/lower_arm_R/hand_R/middle_finger_01_R/middle_finger_02_R/middle_finger_03_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.01601858
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.01601858
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_R/lower_arm_R/hand_R/middle_finger_01_R/middle_finger_02_R/middle_finger_03_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.5225577
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.5225577
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_R/lower_arm_R/hand_R/middle_finger_01_R/middle_finger_02_R/middle_finger_03_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.8524022
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.8524022
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_R/lower_arm_R/hand_R/middle_finger_01_R/middle_finger_02_R/middle_finger_03_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.6424302
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.6424302
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_R/lower_arm_R/hand_R/thumb_01_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.7279443
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.7279443
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_R/lower_arm_R/hand_R/thumb_01_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.001415128
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.001415128
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_R/lower_arm_R/hand_R/thumb_01_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.2395381
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.2395381
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_R/lower_arm_R/hand_R/thumb_01_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.5114118
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.5114118
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_R/lower_arm_R/hand_R/thumb_01_R/thumb_02_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.8563047
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.8563047
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_R/lower_arm_R/hand_R/thumb_01_R/thumb_02_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.06059662
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.06059662
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_R/lower_arm_R/hand_R/thumb_01_R/thumb_02_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.03909458
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.03909458
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_R/lower_arm_R/hand_R/thumb_01_R/thumb_02_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.01312015
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.01312015
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/arm_R/lower_arm_R/hand_R/thumb_01_R/thumb_02_R/thumb_03_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.00816219
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.00816219
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/arm_R/lower_arm_R/hand_R/thumb_01_R/thumb_02_R/thumb_03_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.2216668
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.2216668
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/arm_R/lower_arm_R/hand_R/thumb_01_R/thumb_02_R/thumb_03_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.975
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.975
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/arm_R/lower_arm_R/hand_R/thumb_01_R/thumb_02_R/thumb_03_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.8744697
+        inSlope: -0.1687395
+        outSlope: -0.1687395
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.8687006
+        inSlope: -0.04725158
+        outSlope: -0.04725158
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.8829603
+        inSlope: 0.1946935
+        outSlope: 0.1946935
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.8883234
+        inSlope: -0.09918184
+        outSlope: -0.09918184
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.8799499
+        inSlope: -0.03614721
+        outSlope: -0.03614721
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/weapon
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.003942987
+        inSlope: -0.1748058
+        outSlope: -0.1748058
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: -0.01165334
+        inSlope: -0.2349175
+        outSlope: -0.2349175
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: -0.02355189
+        inSlope: 0.01409512
+        outSlope: 0.01409512
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: -0.01782996
+        inSlope: 0.1643887
+        outSlope: 0.1643887
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 3.812469E-07
+        inSlope: 0.08404218
+        outSlope: 0.08404218
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/weapon
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.01029723
+        inSlope: 0.3393623
+        outSlope: 0.3393623
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.02262486
+        inSlope: 0.1618463
+        outSlope: 0.1618463
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.01792035
+        inSlope: 0.02124692
+        outSlope: 0.02124692
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.01697238
+        inSlope: -0.1526563
+        outSlope: -0.1526563
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 7.063592E-07
+        inSlope: -0.08073419
+        outSlope: -0.08073419
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/weapon
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.4849548
+        inSlope: 0.2942522
+        outSlope: 0.2942522
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.4946833
+        inSlope: 0.07373571
+        outSlope: 0.07373571
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.4685139
+        inSlope: -0.3676924
+        outSlope: -0.3676924
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.4585581
+        inSlope: 0.2021139
+        outSlope: 0.2021139
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.4750665
+        inSlope: 0.06763721
+        outSlope: 0.06763721
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/weapon
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.4750665
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.4750665
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/weapon/slider
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.426387E-06
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 1.426387E-06
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/weapon/slider
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.541636E-06
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 1.541636E-06
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/weapon/slider
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.8799499
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.8799499
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/weapon/slider
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.3359231
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.3359231
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/weapon/flap
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.622219
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.622219
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/weapon/flap
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.3359226
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.3359226
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/weapon/flap
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.622218
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.622218
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/weapon/flap
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.6585266
+        inSlope: -0.2582949
+        outSlope: -0.2582949
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.6498096
+        inSlope: -0.06923498
+        outSlope: -0.06923498
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.6721009
+        inSlope: 0.3077137
+        outSlope: 0.3077137
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.680514
+        inSlope: -0.161916
+        outSlope: -0.161916
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.6670293
+        inSlope: -0.05698616
+        outSlope: -0.05698616
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/mag
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.006404543
+        inSlope: -0.2795524
+        outSlope: -0.2795524
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: -0.01783923
+        inSlope: -0.2758884
+        outSlope: -0.2758884
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: -0.02742968
+        inSlope: 0.006219761
+        outSlope: 0.006219761
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: -0.02172063
+        inSlope: 0.2062998
+        outSlope: 0.2062998
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.0007976058
+        inSlope: 0.1063912
+        outSlope: 0.1063912
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/mag
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.007966877
+        inSlope: 0.259828
+        outSlope: 0.259828
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.01694545
+        inSlope: 0.07264441
+        outSlope: 0.07264441
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.008512615
+        inSlope: 0.02509809
+        outSlope: 0.02509809
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.009567756
+        inSlope: -0.08813623
+        outSlope: -0.08813623
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.0003764173
+        inSlope: -0.04755773
+        outSlope: -0.04755773
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/mag
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.752488
+        inSlope: 0.2200153
+        outSlope: 0.2200153
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.7596987
+        inSlope: 0.05352795
+        outSlope: 0.05352795
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.7399024
+        inSlope: -0.2799957
+        outSlope: -0.2799957
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.7323505
+        inSlope: 0.1564327
+        outSlope: 0.1564327
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.745031
+        inSlope: 0.05131777
+        outSlope: 0.05131777
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/mag
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.03302757
+        inSlope: -0.3316486
+        outSlope: -0.3316486
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.02025247
+        inSlope: -0.2333502
+        outSlope: -0.2333502
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.01528279
+        inSlope: -0.06996256
+        outSlope: -0.06996256
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.01703237
+        inSlope: 0.2377453
+        outSlope: 0.2377453
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.04236238
+        inSlope: 0.1185238
+        outSlope: 0.1185238
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/IK_arm_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0596952
+        inSlope: 0.3873208
+        outSlope: 0.3873208
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.07279116
+        inSlope: 0.1152662
+        outSlope: 0.1152662
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.04300353
+        inSlope: -0.4088553
+        outSlope: -0.4088553
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.03153212
+        inSlope: 0.1968165
+        outSlope: 0.1968165
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.04696977
+        inSlope: 0.06215858
+        outSlope: 0.06215858
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/IK_arm_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9881973
+        inSlope: -0.009364485
+        outSlope: -0.009364485
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.9879585
+        inSlope: 0.0179395
+        outSlope: 0.0179395
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.9912742
+        inSlope: 0.01365423
+        outSlope: 0.01365423
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.9910176
+        inSlope: -0.02078891
+        outSlope: -0.02078891
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.9885828
+        inSlope: -0.01284956
+        outSlope: -0.01284956
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/IK_arm_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.1371563
+        inSlope: 0.02616674
+        outSlope: 0.02616674
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: -0.135016
+        inSlope: 0.1448688
+        outSlope: 0.1448688
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: -0.1236634
+        inSlope: -0.03884285
+        outSlope: -0.03884285
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: -0.1288403
+        inSlope: -0.0729505
+        outSlope: -0.0729505
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.1367605
+        inSlope: -0.03720355
+        outSlope: -0.03720355
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/IK_arm_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9910697
+        inSlope: 0.01889437
+        outSlope: 0.01889437
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.9914036
+        inSlope: -0.01248568
+        outSlope: -0.01248568
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.9870989
+        inSlope: -0.05395442
+        outSlope: -0.05395442
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.9860753
+        inSlope: 0.04851759
+        outSlope: 0.04851759
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.990144
+        inSlope: 0.01599132
+        outSlope: 0.01599132
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/IK_arm_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.05038508
+        inSlope: 0.06803624
+        outSlope: 0.06803624
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: -0.04905099
+        inSlope: -0.09345374
+        outSlope: -0.09345374
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: -0.06260307
+        inSlope: 0.007842161
+        outSlope: 0.007842161
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: -0.05893917
+        inSlope: 0.05342592
+        outSlope: 0.05342592
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.05358674
+        inSlope: 0.02449559
+        outSlope: 0.02449559
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/IK_arm_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.04993687
+        inSlope: 0.3948255
+        outSlope: 0.3948255
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.06500713
+        inSlope: 0.2719726
+        outSlope: 0.2719726
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.06648133
+        inSlope: -0.01332018
+        outSlope: -0.01332018
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.0617914
+        inSlope: -0.2068446
+        outSlope: -0.2068446
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.03868543
+        inSlope: -0.1101483
+        outSlope: -0.1101483
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/IK_arm_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.1129097
+        inSlope: 0.3160832
+        outSlope: 0.3160832
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: -0.1024054
+        inSlope: 0.07868619
+        outSlope: 0.07868619
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: -0.1315176
+        inSlope: -0.4130421
+        outSlope: -0.4130421
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: -0.1427005
+        inSlope: 0.2302681
+        outSlope: 0.2302681
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.1234777
+        inSlope: 0.08046307
+        outSlope: 0.08046307
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/IK_arm_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.001452549
+        inSlope: 0.0784975
+        outSlope: 0.0784975
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: 0.00116133
+        inSlope: -0.1298017
+        outSlope: -0.1298017
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0
+        inSlope: 0.01468765
+        outSlope: 0.01468765
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/camera
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.0009365742
+        inSlope: -0.04557776
+        outSlope: -0.04557776
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: -0.002080314
+        inSlope: 0.03263878
+        outSlope: 0.03263878
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0
+        inSlope: -1.555116E-24
+        outSlope: -1.555116E-24
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/camera
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 5.620888E-12
+        inSlope: -3.091721E-11
+        outSlope: -3.091721E-11
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: 7.062266E-12
+        inSlope: -3.581575E-10
+        outSlope: -3.581575E-10
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -1.058791E-22
+        inSlope: -3.786529E-28
+        outSlope: -3.786529E-28
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/camera
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9999985
+        inSlope: -0.0002744794
+        outSlope: -0.0002744794
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: 0.9999972
+        inSlope: 0.0003960727
+        outSlope: 0.0003960727
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 1
+        inSlope: 3.576276E-06
+        outSlope: 3.576276E-06
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/camera
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.003028933
+        inSlope: 0.06827929
+        outSlope: 0.2054923
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.009878677
+        inSlope: 0.2054923
+        outSlope: 0.334119
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666666
+        value: 0.02101598
+        inSlope: 0.334119
+        outSlope: 0.4370114
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.03558302
+        inSlope: 0.4370114
+        outSlope: 0.4950632
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: 0.06858723
+        inSlope: 0.4950631
+        outSlope: 0.4370119
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.08315429
+        inSlope: 0.4370119
+        outSlope: 0.3341186
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: 0.09429158
+        inSlope: 0.3341186
+        outSlope: 0.2054921
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.1011413
+        inSlope: 0.2054921
+        outSlope: 0.06827966
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: 0.1034173
+        inSlope: 0.06827966
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333333
+        value: 0.1034173
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Armature/weapon
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.07912955
+        inSlope: -0.02501875
+        outSlope: -0.06897837
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: -0.08142883
+        inSlope: -0.06897837
+        outSlope: -0.1051641
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666666
+        value: -0.08493429
+        inSlope: -0.1051641
+        outSlope: -0.1348024
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: -0.08942771
+        inSlope: -0.1348024
+        outSlope: -0.1585713
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: -0.1006013
+        inSlope: -0.1766351
+        outSlope: -0.1885548
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -0.1068864
+        inSlope: -0.1885548
+        outSlope: -0.1929236
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: -0.1133172
+        inSlope: -0.1929236
+        outSlope: -0.1863277
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: -0.1195281
+        inSlope: -0.1863277
+        outSlope: -0.1598807
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: -0.1248575
+        inSlope: -0.1598807
+        outSlope: -0.0821145
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333333
+        value: -0.1275946
+        inSlope: -0.0821145
+        outSlope: -0.0821145
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Armature/weapon
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9294417
+        inSlope: -0.2390241
+        outSlope: -0.5765318
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.910224
+        inSlope: -0.5765318
+        outSlope: -0.4395443
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666666
+        value: 0.8955725
+        inSlope: -0.4395443
+        outSlope: -0.21335
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.8884608
+        inSlope: -0.21335
+        outSlope: -0.09250403
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: 0.8849497
+        inSlope: -0.0128299
+        outSlope: 0.1466274
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.8898373
+        inSlope: 0.1466274
+        outSlope: 0.3835379
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: 0.9026219
+        inSlope: 0.3835379
+        outSlope: 0.383538
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.9154065
+        inSlope: 0.383538
+        outSlope: 0.1466274
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: 0.920294
+        inSlope: 0.1466274
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333333
+        value: 0.920294
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Armature/weapon
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.005418282
+        inSlope: 0.1399597
+        outSlope: 0.275698
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.01460822
+        inSlope: 0.275698
+        outSlope: 0.2862021
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666666
+        value: 0.02414829
+        inSlope: 0.2862021
+        outSlope: 0.390541
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.03716632
+        inSlope: 0.390541
+        outSlope: 0.5033383
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: 0.07097802
+        inSlope: 0.5110126
+        outSlope: 0.450283
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.08598745
+        inSlope: 0.450283
+        outSlope: 0.3376178
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: 0.09724138
+        inSlope: 0.3376178
+        outSlope: 0.1915833
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.1036275
+        inSlope: 0.1915833
+        outSlope: 0.03576592
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: 0.1048197
+        inSlope: 0.03576592
+        outSlope: -0.03070705
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.1034173
+        inSlope: -0.0113643
+        outSlope: -0.0113643
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Armature/mag
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.2139654
+        inSlope: -0.08722811
+        outSlope: -0.1292101
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: -0.2182724
+        inSlope: -0.1292101
+        outSlope: -0.07700399
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666666
+        value: -0.2208392
+        inSlope: -0.07700399
+        outSlope: -0.07415278
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: -0.2233109
+        inSlope: -0.07415278
+        outSlope: -0.08488566
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: -0.2291946
+        inSlope: -0.09162337
+        outSlope: -0.1545319
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -0.2343456
+        inSlope: -0.1545319
+        outSlope: -0.2090741
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: -0.2413148
+        inSlope: -0.2090741
+        outSlope: -0.2234459
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: -0.248763
+        inSlope: -0.2234459
+        outSlope: -0.2102615
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: -0.2557717
+        inSlope: -0.2102615
+        outSlope: -0.1231921
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.2603568
+        inSlope: -0.01436234
+        outSlope: -0.01436234
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Armature/mag
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.8391126
+        inSlope: -0.1474768
+        outSlope: -0.4815209
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.8230619
+        inSlope: -0.4815209
+        outSlope: -0.4853636
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666666
+        value: 0.8068831
+        inSlope: -0.4853636
+        outSlope: -0.3052461
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.7967082
+        inSlope: -0.3052461
+        outSlope: -0.1969028
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: 0.7859356
+        inSlope: -0.1262748
+        outSlope: 0.103299
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.7893789
+        inSlope: 0.103299
+        outSlope: 0.4042445
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: 0.8028538
+        inSlope: 0.4042445
+        outSlope: 0.431394
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.8172336
+        inSlope: 0.431394
+        outSlope: 0.2134931
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: 0.82435
+        inSlope: 0.2134931
+        outSlope: 0.05661607
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.8269134
+        inSlope: 0.02028465
+        outSlope: 0.02028465
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Armature/mag
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.03632215
+        inSlope: 0.09673207
+        outSlope: 0.2028854
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: -0.0295593
+        inSlope: 0.2028854
+        outSlope: 0.2355561
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666666
+        value: -0.02170743
+        inSlope: 0.2355561
+        outSlope: 0.3688193
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: -0.009413451
+        inSlope: 0.3688193
+        outSlope: 0.5054829
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.007435977
+        inSlope: 0.5054829
+        outSlope: 0.5157915
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: 0.02462903
+        inSlope: 0.5157915
+        outSlope: 0.4559394
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.039827
+        inSlope: 0.4559394
+        outSlope: 0.3423879
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: 0.05123994
+        inSlope: 0.3423879
+        outSlope: 0.2174784
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.05848922
+        inSlope: 0.2174784
+        outSlope: 0.09689704
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: 0.06171912
+        inSlope: 0.09689704
+        outSlope: 0.03005326
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.0631178
+        inSlope: 0.01190722
+        outSlope: 0.01190722
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Armature/IK_arm_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.3009672
+        inSlope: -0.03828674
+        outSlope: -0.07401823
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: -0.3034345
+        inSlope: -0.07401823
+        outSlope: -0.08320839
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666666
+        value: -0.3062081
+        inSlope: -0.08320839
+        outSlope: -0.1120296
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: -0.3099425
+        inSlope: -0.1120296
+        outSlope: -0.1454955
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: -0.3147923
+        inSlope: -0.1454955
+        outSlope: -0.1584676
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: -0.3200746
+        inSlope: -0.1584676
+        outSlope: -0.1820541
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -0.326143
+        inSlope: -0.1820541
+        outSlope: -0.1995974
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: -0.3327963
+        inSlope: -0.1995974
+        outSlope: -0.2007473
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: -0.3394879
+        inSlope: -0.2007473
+        outSlope: -0.1809105
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: -0.3455182
+        inSlope: -0.1809105
+        outSlope: -0.09861142
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.3489901
+        inSlope: -0.005545021
+        outSlope: -0.005545021
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Armature/IK_arm_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9169607
+        inSlope: -0.1148182
+        outSlope: -0.4607624
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.9016019
+        inSlope: -0.4607624
+        outSlope: -0.5213965
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666666
+        value: 0.884222
+        inSlope: -0.5213965
+        outSlope: -0.3610181
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.8721881
+        inSlope: -0.3610181
+        outSlope: -0.2670425
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.8632867
+        inSlope: -0.2670425
+        outSlope: -0.2067518
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: 0.8563949
+        inSlope: -0.2067518
+        outSlope: 0.07108749
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.8587645
+        inSlope: 0.07108749
+        outSlope: 0.4198675
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: 0.8727601
+        inSlope: 0.4198675
+        outSlope: 0.4773528
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.8886719
+        inSlope: 0.4773528
+        outSlope: 0.287059
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: 0.8982405
+        inSlope: 0.287059
+        outSlope: 0.1200324
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.9036728
+        inSlope: 0.04293681
+        outSlope: 0.04293681
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Armature/IK_arm_L
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.02815599
+        inSlope: 0.0623057
+        outSlope: 0.2138972
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.0352859
+        inSlope: 0.2138972
+        outSlope: 0.3756256
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666666
+        value: 0.04780675
+        inSlope: 0.3756256
+        outSlope: 0.4643601
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.06328543
+        inSlope: 0.4643601
+        outSlope: 0.4910036
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.07965221
+        inSlope: 0.4910036
+        outSlope: 0.486935
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: 0.09588338
+        inSlope: 0.486935
+        outSlope: 0.4294577
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.1101986
+        inSlope: 0.4294577
+        outSlope: 0.3305862
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: 0.1212182
+        inSlope: 0.3305862
+        outSlope: 0.1984553
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.1278334
+        inSlope: 0.1984553
+        outSlope: 0.05148724
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: 0.1295496
+        inSlope: 0.05148724
+        outSlope: -0.01736462
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333333
+        value: 0.1289708
+        inSlope: -0.01736462
+        outSlope: -0.006818623
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.1287435
+        inSlope: -0.006818623
+        outSlope: -0.006818623
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Armature/IK_arm_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.01162867
+        inSlope: -0.02469532
+        outSlope: -0.07309622
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.009192124
+        inSlope: -0.07309622
+        outSlope: -0.115533
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666666
+        value: 0.005341023
+        inSlope: -0.115533
+        outSlope: -0.1413457
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.0006294996
+        inSlope: -0.1413457
+        outSlope: -0.1570018
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: -0.004603893
+        inSlope: -0.1570018
+        outSlope: -0.1760388
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: -0.01047185
+        inSlope: -0.1760388
+        outSlope: -0.1876554
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -0.01672703
+        inSlope: -0.1876554
+        outSlope: -0.1911592
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: -0.02309901
+        inSlope: -0.1911592
+        outSlope: -0.1827385
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: -0.02919029
+        inSlope: -0.1827385
+        outSlope: -0.1538783
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: -0.03431956
+        inSlope: -0.1538783
+        outSlope: -0.07739202
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333333
+        value: -0.0368993
+        inSlope: -0.07739202
+        outSlope: 0.001562834
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: -0.0368472
+        inSlope: 0.001562834
+        outSlope: 0.001562834
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Armature/IK_arm_R
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.925997
+        inSlope: -0.2840352
+        outSlope: -0.6158423
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333334
+        value: 0.9054689
+        inSlope: -0.6158423
+        outSlope: -0.4046864
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666666
+        value: 0.8919794
+        inSlope: -0.4046864
+        outSlope: -0.153628
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.8868585
+        inSlope: -0.153628
+        outSlope: -0.02090514
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0.8861616
+        inSlope: -0.02090514
+        outSlope: 0.06710351
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: 0.8883984
+        inSlope: 0.06710351
+        outSlope: 0.1779217
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.8943291
+        inSlope: 0.1779217
+        outSlope: 0.3684513
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: 0.9066108
+        inSlope: 0.3684513
+        outSlope: 0.3426504
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: 0.9180325
+        inSlope: 0.3426504
+        outSlope: 0.08354545
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: 0.9208174
+        inSlope: 0.08354545
+        outSlope: -0.05446852
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333333
+        value: 0.9190018
+        inSlope: -0.05446852
+        outSlope: -0.01956046
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: 0.9183497
+        inSlope: -0.01956046
+        outSlope: -0.01956046
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Armature/IK_arm_R
+    classID: 4
+    script: 
+  m_Events:

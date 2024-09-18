@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!4 &-2271816478644863062
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2862238325360392276}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 53.07336, y: 20.78284, z: 108.1207}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2862238325360392276
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: -2271816478644863062}
+  - component: {fileID: -3294625531676598401}
+  - component: {fileID: -8151852561129024937}
+  m_Layer: 0
+  m_Name: "itembarbedwire"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &-8151852561129024937
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2862238325360392276}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30f1a386c3da1a6d884fdec2871e86e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  resourceName: "barbedwire"
+--- !u!114 &-3294625531676598401
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2862238325360392276}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1998fb6fe124d2017775985ddb462a7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  magicItem: 0
+  canTake: 0
+  canMove: 0
+  canRotate: 0
+  canActivate: 0
+  canSetup: 0
+  id: 0
+  type: 0
+  state: 0
+  phys: 0
+  placeType: 1
+  lightColor: {r: 0, g: 0, b: 0, a: 0}
+  shopGoPrefab: {fileID: -8865926114603900795, guid: b3ff15c0fa1c4c42ac1fe373652e4e7e, type: 2}

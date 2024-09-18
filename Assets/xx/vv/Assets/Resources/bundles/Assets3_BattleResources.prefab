@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!4 &7725991053805907255
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: -2727699506652165056}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.1787109, y: -0.06877025, z: 0.3788472}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &-2727699506652165056
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7725991053805907255}
+  - component: {fileID: -1657055557032996796}
+  m_Layer: 0
+  m_Name: "Assets3_BattleResources"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &-1657055557032996796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: -2727699506652165056}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e51b864701269114452c6cf3cf48db50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  specItemsGO:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  transportPrefabs: []
+  darkness: {fileID: 2800000, guid: 26d24452c6d4409982c484ba6fc89238, type: 3}
+  rifleAimTex: {fileID: 2800000, guid: ce9ea87cdfe64b9f837dff731ce43e57, type: 3}
+  underWaterTex: {fileID: 2800000, guid: ba0df2c9688b47dd8b9659c497259e6c, type: 3}
+  sparksGroundBullet: {fileID: -603180307218850333, guid: 0770c3929cac48f7ace5f0c6c2d147e9, type: 2}
+  sparksMetal: {fileID: -1237644228817113853, guid: 2a0823c15c784501aa4fa19152fe3325, type: 2}
+  laserDot: {fileID: 4726418967309825341, guid: e8584753f55b4c529c753cbc7b805fd4, type: 2}
+  bloodSplash: {fileID: -796133709707014042, guid: 01003c0ccd2f49f58e5bb71380e7ad75, type: 2}
+  meatSplash: {fileID: 0}
+  bloodGibs: {fileID: 0}
+  bloodSplashFromBullets:
+  - {fileID: -796133709707014042, guid: 01003c0ccd2f49f58e5bb71380e7ad75, type: 2}
+  doubleJumpPulseEffect: {fileID: 0}
+  photonObjects:
+  - {fileID: -1225118400376220303, guid: e861482183ce48ac9b87b92b32ef2845, type: 2}
+  - {fileID: -8602227960038144419, guid: 8f3a1007da964ea988534349b5e5d9f2, type: 2}
+  - {fileID: -4835284149277499528, guid: 83bbbc3ca9d3434297862ee8ca04be32, type: 2}
+  - {fileID: -1158871880899950153, guid: fd68f99fd585494a9a1ea77ed045a0b8, type: 2}
+  - {fileID: -5090933943247820655, guid: 52a375e2c2984dcfa05f7fec80c29c67, type: 2}
+  - {fileID: 7187732475533488527, guid: 6913d55854dd499bbc4485c836280c82, type: 2}
+  - {fileID: -2959815345390986339, guid: 904cec23822b46d0b507eb6687563632, type: 2}
+  - {fileID: -7827098649084064742, guid: 5d0ed02e3bb04f7eaac7d24a76a62a5b, type: 2}
+  - {fileID: 4638914379717534033, guid: 0e9f2ba3d88d420b9794f5f5424db6a6, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 1990876306962774676, guid: 06510bcd822d4b41be758561317d3377, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 6433230177290848169, guid: 62d1d917a88e4bbea51fedd27982b4df, type: 2}
+  playerRIPTex:
+  - {fileID: 2800000, guid: a945453193e548aa88c084a026b19f82, type: 3}
+  - {fileID: 2800000, guid: 72231c1444124361a33a0d437911b850, type: 3}
+  - {fileID: 2800000, guid: 31ccdaa378c5497d930299a1302ead2f, type: 3}
+  flagCapturedEffect: {fileID: 3773722242478934191, guid: fa0e6701dea8420bbf10ac1428d15e5b, type: 2}
+  flagTexture: {fileID: 0}
+  flagPointerTexture: {fileID: 2800000, guid: 79d5e241031f4f79ab35888b12543c5b, type: 3}
+  flagCapturedTexture: {fileID: 2800000, guid: bb77222b6d1d44efb7ea01cef586af0a, type: 3}
+  bonusesBackground: {fileID: 2800000, guid: 2cc7ddd22c1f480c9292a3d14e351e0b, type: 3}
+  leadMat: {fileID: 2100000, guid: 0b068887076946efb8b369cfa603d453, type: 2}
+  RespMat: {fileID: 2100000, guid: 62967ae044d249929a7d642e2a3a0b0d, type: 2}
+  explosion: {fileID: -3407147317117846997, guid: 5631a542dc9b429191a9dc58ea7e33a8, type: 2}
+  fire: {fileID: 7683183848372136325, guid: ea83558f455842aa9380126a8ee88968, type: 2}
+  healfRespItem: {fileID: -9208676748422859288, guid: 7640059d83f442d3b7fe31f9fd54a9e8, type: 2}
+  AmmoRespItem: {fileID: -3667078067783916404, guid: 347e5e2c5ce04655bb2a7cfb8d0db5b0, type: 2}
+  lowMaterial: {fileID: 2100000, guid: 799620f8870f41c8b75f88655d07e56d, type: 2}

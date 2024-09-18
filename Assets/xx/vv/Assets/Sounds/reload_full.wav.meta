@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f3098ec6369b4f50adcf253c67d0a6f4
+timeCreated: 1676163021
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: a6.unity3d
+  assetBundleVariant: 

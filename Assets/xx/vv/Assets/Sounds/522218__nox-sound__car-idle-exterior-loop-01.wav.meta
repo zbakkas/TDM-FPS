@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cc210d5e64304111aeb44a77ad6f14cd
+timeCreated: 1676165664
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: gg_deadcity.unity3d
+  assetBundleVariant: 

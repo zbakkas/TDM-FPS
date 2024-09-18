@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!4 &3742291890434789570
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: -7249240183893695920}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.1787109, y: -0.06877025, z: 0.3788472}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &-7249240183893695920
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3742291890434789570}
+  - component: {fileID: -8452571487054815274}
+  m_Layer: 0
+  m_Name: "Assets2_MenuItems"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &-8452571487054815274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: -7249240183893695920}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f9c12938acca4356ab203a7476bf88e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  specItemsInvTex:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 2800000, guid: 38da5991b20c491e990940920acec8ec, type: 3}
+  ligaTex:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  bonusTex:
+  - {fileID: 2800000, guid: 9dff41ef100b4403b08338cdba0b95c2, type: 3}
+  - {fileID: 2800000, guid: 816c0ac3b530457ba999b2a0a7134641, type: 3}
+  - {fileID: 2800000, guid: a4cd581d5f724dbc9f022d67996dc593, type: 3}
+  - {fileID: 2800000, guid: be39bc57677a4e6e8a98029b4b610c05, type: 3}
+  - {fileID: 2800000, guid: 7aa48f1d5c5044aba3e987e857482aa4, type: 3}
+  - {fileID: 2800000, guid: 66fef137d96944659b07776b5d609b7e, type: 3}
+  - {fileID: 2800000, guid: ae31fe98975849f2a6e59ec8fd61bd00, type: 3}
+  - {fileID: 2800000, guid: 837ac3b14932455aa551dad933a293db, type: 3}
+  progressAchievementsTexs:
+  - {fileID: 2800000, guid: 4d206784ff2f47afafe033761d6373eb, type: 3}
+  - {fileID: 2800000, guid: 7438731752864c2cb02597aa81bd0706, type: 3}
+  - {fileID: 2800000, guid: 8e6fb61bd4864f21bf34cd763f7b6c35, type: 3}
+  - {fileID: 2800000, guid: 4ade077c52a0479488ce9f037a063cc1, type: 3}
+  frags: {fileID: 2800000, guid: cf3c55b10e1148259e066a940726cd81, type: 3}
+  kills: {fileID: 2800000, guid: 155c5be9ff5e4a93b3c47f9f0994ca2e, type: 3}
+  mission: {fileID: 2800000, guid: 680540ec2c12447ea8cfad01391e87d4, type: 3}
+  modeIcon:
+  - {fileID: 2800000, guid: 579d820d0d794247b10347883df5b514, type: 3}
+  - {fileID: 2800000, guid: 579d820d0d794247b10347883df5b514, type: 3}
+  - {fileID: 2800000, guid: 5b64a4ddb22144fb9f0857a6cd3e3bb3, type: 3}
+  - {fileID: 2800000, guid: 579d820d0d794247b10347883df5b514, type: 3}
+  - {fileID: 2800000, guid: 7f47fc6c499941b78f6b9a6e5a85eb93, type: 3}
+  - {fileID: 2800000, guid: 579d820d0d794247b10347883df5b514, type: 3}
+  - {fileID: 2800000, guid: 579d820d0d794247b10347883df5b514, type: 3}
+  - {fileID: 2800000, guid: 579d820d0d794247b10347883df5b514, type: 3}
+  - {fileID: 2800000, guid: 7b103cb7f5ba4837bb6865eb7f37e9c6, type: 3}
+  - {fileID: 2800000, guid: 579d820d0d794247b10347883df5b514, type: 3}
+  - {fileID: 2800000, guid: 8baa3263f1c342cdbbc1b09479b7bd21, type: 3}
+  - {fileID: 2800000, guid: 64aee3cb2fcd47f3913a3f16f90a6f29, type: 3}
+  - {fileID: 2800000, guid: 936af15e44384b2ca4e73f773004c6e1, type: 3}
+  - {fileID: 2800000, guid: 579d820d0d794247b10347883df5b514, type: 3}
+  - {fileID: 2800000, guid: 3969084611024b25b09a90f478cb0c83, type: 3}
+  - {fileID: 2800000, guid: 579d820d0d794247b10347883df5b514, type: 3}
+  - {fileID: 2800000, guid: 579d820d0d794247b10347883df5b514, type: 3}
+  collectionIcon:
+  - {fileID: 0}
+  - {fileID: 2800000, guid: 0ccf1408fd9e400fb25f9c8f4d34282c, type: 3}
+  - {fileID: 2800000, guid: d3792c8cd6ea4bb78e8f21bcbab34eee, type: 3}
+  - {fileID: 2800000, guid: 6d014d576ae24d489811827db0db7448, type: 3}
+  - {fileID: 2800000, guid: a7d2d50686f44a88819c7b27fd55afe0, type: 3}
+  moneyIcon:
+  - {fileID: 2800000, guid: c90bb68a614d47a995f7f8400bd1e25c, type: 3}
+  - {fileID: 2800000, guid: 996d678626aa41698266bc7a7d63e69c, type: 3}
+  - {fileID: 2800000, guid: 4b8979b554c0438ab0323193744e2bec, type: 3}
+  - {fileID: 2800000, guid: ba746e0a41614ebb973ffa80c338c8cc, type: 3}
+  - {fileID: 2800000, guid: 3874bf4603ce4c5ebe56b672851560dc, type: 3}
+  goldIcon:
+  - {fileID: 2800000, guid: 92db7b1085ba433ba37d6627fdd84260, type: 3}
+  - {fileID: 2800000, guid: 838def73b2304e17ab39b0606a083946, type: 3}
+  - {fileID: 2800000, guid: 2cfd023641bc400b94a4ff608ae1dda6, type: 3}
+  - {fileID: 2800000, guid: 4031a0d7d9d7458f95d567cb8a5cddef, type: 3}
+  - {fileID: 2800000, guid: 28e5a81a245e4214a3e4d47e5315a4e4, type: 3}
+  silverCoinIcon: {fileID: 2800000, guid: 1f8bf6a1a02f497f82d7ba4a9e6c8c6c, type: 3}
+  goldCoinIcon: {fileID: 2800000, guid: 32b938aa253c4c60a54fcda48379003f, type: 3}
